@@ -1,0 +1,7 @@
+{
+   "walletAddress": "YOUR_PUBLIC_BSC_WALLET_ADDRESS",
+   "walletPrivateKey": "PRIVATE_KEY_OF_ABOVE_WALLET",
+   "amountToSpend": "0.01", #This is the Token(BNB or ETH) amount you want to Swap from
+   "gasAmount": "300000",
+   "gasPrice": "5",
+}
